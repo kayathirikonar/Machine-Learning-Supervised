@@ -92,7 +92,7 @@ The project demonstrates how different evaluation metrics provide a comprehensiv
 
 ## Project Files
 
-* **Understanding_of_Evaluation_Techinque.ipynb**
+* **Understanding_Evaluation_Metrics.ipynb**
 * **HR-Employee-Attrition.csv**
 
 ---
