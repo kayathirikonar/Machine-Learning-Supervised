@@ -90,7 +90,7 @@ The project demonstrates how Lasso and Ridge Regression improve the robustness o
 
 ## Project Files
 
-- **A_Comparison_of_Linear_Lasso_and_Ridge_Regression.ipynb**
+- **Comparison_of_Linear_Lasso_and_Ridge_Regression.ipynb**
 - **house_data.csv**
 
 ---
